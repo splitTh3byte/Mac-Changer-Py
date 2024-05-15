@@ -1,1 +1,1 @@
-  Acest script realizeaza schimbarea adresei MAC cu una aleasa de utilizator !
+  This script help the user to change the MAC Address!
