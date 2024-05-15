@@ -1,1 +1,1 @@
-  This script help the user to change the MAC Address!
+  This script helps the user to change the MAC Address!
